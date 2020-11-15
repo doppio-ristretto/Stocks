@@ -3,6 +3,7 @@ This repository is a machine learning project focused on predicting adj. closing
 
 Repositories
 https://github.com/doppio-ristretto/Stocks
+
 https://github.com/mrryanlittle/mrryanlittle.github.io
 
 Website
